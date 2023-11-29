@@ -1,9 +1,33 @@
-# React + Vite
+# 10Times Assignment
+![HomePage](screenshots/home.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Description
 
-Currently, two official plugins are available:
+Introducing a streamlined event creation form using React, Vite, and Tailwind CSS. This minimalistic interface empowers users to swiftly input event details such as title, date, location, and description. The form ensures a user-friendly experience with real-time validation and a clean layout. Seamlessly blending functionality with aesthetics, this small-scale app simplifies the event creation process, providing a responsive and visually pleasing solution for users to effortlessly organize and share their events.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# event-creation
+
+## Setup Guide
+- Clone the project
+- Cd to the folder
+- Go the project through the terminal and install all dependencies by using typing `npm install` in the terminal
+- Run the server using `npm run dev`
+
+## Screenshots
+
+For visualization here's the step by step Guide
+
+### HomePage
+![Home-Page](screenshots/home.png)
+
+### EventList Page
+![EventList](screenshots/list.png)
+
+
+### Demo Link - https://10timesevent.netlify.app/
+
+### Tech Used -
+- React
+- Bootstrap 
+- Tailwind
+- Figma
+- Vite
